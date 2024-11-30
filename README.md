@@ -2,6 +2,8 @@
 
 ### It was made together with the tutorial on Code With Antonio youtube channel.
 
+![airbnb clone preview](https://i.imgur.com/dHKGpGF.png)
+
 Features:
 
 - Tailwind design
